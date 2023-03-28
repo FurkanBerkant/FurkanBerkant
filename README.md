@@ -26,7 +26,7 @@
 
 
 ## 🔍  Where to find me
-###### [![Linkedin: Berkant Kubat ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=C4%B1-7a19a7189//)](linkedin.com/in/berkantkubat) [![GitHub FurkanBerkant](https://img.shields.io/github/followers/FurkanBerkant?label=follow&style=social)](https://github.com/FurkanBerkant)
+###### [![Linkedin: Berkant Kubat ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=C4%B1-7a19a7189//)]([linkedin.com/in/berkantkubat](https://www.linkedin.com/in/berkantkubat/)) [![GitHub FurkanBerkant](https://img.shields.io/github/followers/FurkanBerkant?label=follow&style=social)](https://github.com/FurkanBerkant)
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FurkanBerkant)
