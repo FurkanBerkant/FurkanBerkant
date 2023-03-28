@@ -12,12 +12,18 @@
 ![Spring](https://img.shields.io/badge/Spring-black?&style=flat-square&logo=spring)
 ![Flask](https://img.shields.io/badge/Flask-black?&style=flat-square&logo=flask)
 
+#### 📦 Databases
+![MySQL](https://img.shields.io/badge/MySQL-black?&style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?&style=flat-square&logo=mongodb)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?&style=flat-square&logo=microsoft-sql-server)
 #### ⚙️ Tools
 ![Visual Studio ](https://img.shields.io/badge/VS-black?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?&style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?&style=for-the-badge&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?&style=for-the-badge&logo=pycharm)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?&style=for-the-badge&logo=eclipse-ide)
+
 
 ## 🔍  Where to find me
 ###### [![Linkedin: Berkant Kubat ](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=C4%B1-7a19a7189//)](linkedin.com/in/berkantkubat) [![GitHub FurkanBerkant](https://img.shields.io/github/followers/FurkanBerkant?label=follow&style=social)](https://github.com/FurkanBerkant)
