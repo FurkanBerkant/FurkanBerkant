@@ -40,7 +40,7 @@ I'm **Berkant Kubat**, a passionate **Software Engineer** specializing in backen
 - **[Rent A Car](https://github.com/FurkanBerkant/ReCapProject)** – Car rental system for learning purposes.
 - **[HR Management System](https://github.com/FurkanBerkant/HRMS.Java)** – A digital HR system with recruitment tracking.
 - **[Fraud Detection](https://github.com/FurkanBerkant/Fraud-Detection-with-Naive-Bayes-Classifier)** – A web app using **Naïve Bayes Classifier** for fraud detection.
-- **[HTML Portfolio](https://furkanberkant.github.io/)** – My personal portfolio website.
+- **[Portfolio](https://furkanberkant.github.io/)** – My personal portfolio website.
 
 ## 🎓 Education
 **Karadeniz Teknik Üniversitesi** *(2019 – 2023)*  
