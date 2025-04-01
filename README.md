@@ -34,13 +34,6 @@ I'm **Berkant Kubat**, a passionate **Software Engineer** specializing in backen
 ![Grafana](https://img.shields.io/badge/Grafana-black?&style=flat-square&logo=grafana)
 ![Logback](https://img.shields.io/badge/Logback-black?&style=flat-square&logo=java)
 
-## 💼 Experience
-### **Software Engineer | Comodif** *(10/2023 – Present)*
-- Developed and maintained **microservices** using **Java, Spring Boot, PostgreSQL, and Cassandra**.
-- Managed **CI/CD pipelines** with **GitHub Actions** and deployed applications using **Helm & ArgoCD**.
-- Monitored and analyzed logs using **Lens (Kubernetes UI), Prometheus, and Grafana**.
-- Led backend integrations and developed features for **Mobiqu**, contributing to an **international PoC event**.
-- Contributed to Agile/Scrum workflows, handling **bug fixes, sprint planning, and cross-team collaboration**.
 
 ## 📂 Projects
 - **[Cargo Company Automation](https://github.com/FurkanBerkant/kargoApp-Backend)** – Cargo shipment tracking & management system.
