@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Berkant Kubat
 
-### Java Backend Engineer | Microservices Architect | System Designer
+### Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/-berkantkubat-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
@@ -50,66 +50,11 @@ Building robust backend systems with focus on:
 
 ---
 
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚚 [Cargo Management System](https://github.com/FurkanBerkant/kargoApp-Backend)
-Enterprise cargo tracking and shipment management platform
-- Real-time tracking system
-- RESTful API architecture
-- Database optimization
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 💼 [HR Management Platform](https://github.com/FurkanBerkant/HRMS.Java)
-Comprehensive HR system with recruitment tracking
-- Job posting management
-- Candidate tracking workflow
-- Clean architecture principles
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 [Rent A Car System](https://github.com/FurkanBerkant/ReCapProject)
-Modern car rental management platform
-- Vehicle inventory system
-- Booking management
-- Microservices design
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL`
-
-</td>
-<td width="50%">
-
-### 🤖 [Fraud Detection System](https://github.com/FurkanBerkant/Fraud-Detection-with-Naive-Bayes-Classifier)
-ML-powered fraud detection application
-- Naïve Bayes classifier
-- Statistical analysis
-- Web interface
-
-**Stack:** `Python` `Flask` `Machine Learning`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
@@ -156,3 +101,4 @@ Open to discussing system design, backend architecture, or collaborating on inte
   
   **⭐ From [FurkanBerkant](https://github.com/FurkanBerkant)**
 </div>
+
