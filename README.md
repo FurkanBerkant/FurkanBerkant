@@ -1,57 +1,152 @@
-### Hi there! 👋
+<div align="center">
+
+# 👋 Hey, I'm Berkant Kubat
+
+### Java Backend Engineer | Microservices Architect | System Designer
+
+[![LinkedIn](https://img.shields.io/badge/-berkantkubat-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
+[![Email](https://img.shields.io/badge/-kubatb35@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
-I'm **Berkant Kubat**, a passionate **Software Engineer** specializing in backend development. My expertise lies in **Java**, **Spring Boot**, and **microservices architectures**. I enjoy optimizing performance with **Redis, Caffeine Cache**, and building **event-driven systems** with **Kafka**. Additionally, I have hands-on experience in **DevOps**, working with **Kubernetes, Docker, ArgoCD, and CI/CD pipelines**.
 
-## 🛠  Technologies and Tools
+Java Backend Engineer with a focus on building scalable, high-performance distributed systems. I specialize in microservices architecture and event-driven design patterns to solve complex engineering challenges.
 
-### 🧑‍💻 Languages
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/C%23-black?&style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- ☕ Primary focus on **Java** and **Spring Boot** development
+- 🏗️ Building microservices with **event-driven architectures**
+- 🔄 Working with **Apache Kafka** for real-time data processing
+- ⚡ Optimizing performance through **caching strategies** and **async processing**
+- 🐳 Deploying with **Docker**, **Kubernetes**, and **GitOps** practices
 
-### 📚 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?&style=flat-square&logo=spring)
-![.NET](https://img.shields.io/badge/.NET-black?&style=flat-square&logo=.net)
-![Flask](https://img.shields.io/badge/Flask-black?&style=flat-square&logo=flask)
+---
 
-### 📦 Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?&style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-black?&style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?&style=flat-square&logo=mongodb)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?&style=flat-square&logo=microsoft-sql-server)
-![Cassandra](https://img.shields.io/badge/Cassandra-black?&style=flat-square&logo=apache-cassandra)
-![Redis](https://img.shields.io/badge/Redis-black?&style=flat-square&logo=redis)
-![Caffeine Cache](https://img.shields.io/badge/Caffeine%20Cache-black?&style=flat-square&logo=java)
+## 🛠️ Tech Stack
+```text
+Core:             Java • Spring Boot • Spring Cloud
+Messaging:        Apache Kafka • Protocol Buffers • gRPC • REST APIs
+Databases:        PostgreSQL • Apache Cassandra • Redis • Microsoft SQL Server
+Caching:          Redis • Caffeine Cache
+DevOps:           Docker • Kubernetes • Helm • ArgoCD • GitHub Actions
+Monitoring:       Prometheus • Grafana • Loki
+Other:            Python • C#
+```
 
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-black?&style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?&style=flat-square&logo=kubernetes)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-black?&style=flat-square&logo=argo)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?&style=flat-square&logo=github-actions)
-![Lens](https://img.shields.io/badge/Lens-black?&style=flat-square&logo=kubernetes)
-![Prometheus](https://img.shields.io/badge/Prometheus-black?&style=flat-square&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-black?&style=flat-square&logo=grafana)
-![Logback](https://img.shields.io/badge/Logback-black?&style=flat-square&logo=java)
+---
 
+## 💼 What I Do
 
-## 📂 Projects
-- **[Cargo Company Automation](https://github.com/FurkanBerkant/kargoApp-Backend)** – Cargo shipment tracking & management system.
-- **[Rent A Car](https://github.com/FurkanBerkant/ReCapProject)** – Car rental system for learning purposes.
-- **[HR Management System](https://github.com/FurkanBerkant/HRMS.Java)** – A digital HR system with recruitment tracking.
-- **[Fraud Detection](https://github.com/FurkanBerkant/Fraud-Detection-with-Naive-Bayes-Classifier)** – A web app using **Naïve Bayes Classifier** for fraud detection.
-- **[Portfolio](https://furkanberkant.github.io/)** – My personal portfolio website.
+Building robust backend systems with focus on:
 
-## 🎓 Education
-**Karadeniz Teknik Üniversitesi** *(2019 – 2023)*  
-**BSc in Statistics & Computer Science**
+- 🎯 **Microservices Architecture** - Designing scalable, maintainable services
+- 📊 **Real-time Data Processing** - Kafka-based event streaming pipelines
+- ⚡ **Performance Optimization** - Async processing, strategic caching, query tuning
+- 🗄️ **Database Design** - Time-series data with Cassandra, transactional data with PostgreSQL
+- 🔍 **Observability** - Prometheus metrics, Grafana dashboards, distributed tracing
+- 🚀 **Cloud Native** - Containerization, orchestration, and automated deployments
 
-## 📜 Certifications
-- [Getting Started with Spring Boot](https://amigoscode.com/courses/267273/certificate)
-- [Cybersecurity Fundamentals](https://www.credly.com/badges/8ab9e3e3-4e03-41d3-ad55-ede572d652d7/linked_in_profile)
-- [Working in a Digital World: Professional Skills](https://www.credly.com/badges/cf360c47-3c70-4656-accf-b0c6910b1c40/linked_in_profile)
-- [Java Backend Web Development Pathway](https://app.patika.dev/certificates/bmkn4Pb)
+---
 
-## 🔍 Where to find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)  
-[![GitHub](https://img.shields.io/github/followers/FurkanBerkant?label=follow&style=social)](https://github.com/FurkanBerkant)
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚚 [Cargo Management System](https://github.com/FurkanBerkant/kargoApp-Backend)
+Enterprise cargo tracking and shipment management platform
+- Real-time tracking system
+- RESTful API architecture
+- Database optimization
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 💼 [HR Management Platform](https://github.com/FurkanBerkant/HRMS.Java)
+Comprehensive HR system with recruitment tracking
+- Job posting management
+- Candidate tracking workflow
+- Clean architecture principles
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 [Rent A Car System](https://github.com/FurkanBerkant/ReCapProject)
+Modern car rental management platform
+- Vehicle inventory system
+- Booking management
+- Microservices design
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### 🤖 [Fraud Detection System](https://github.com/FurkanBerkant/Fraud-Detection-with-Naive-Bayes-Classifier)
+ML-powered fraud detection application
+- Naïve Bayes classifier
+- Statistical analysis
+- Web interface
+
+**Stack:** `Python` `Flask` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanBerkant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎓 Background
+
+**Bachelor of Science** in Statistics & Computer Science  
+*Karadeniz Technical University* • 2019 - 2023
+
+**Certifications:**
+- Spring Boot Development • Amigoscode
+- Cybersecurity Fundamentals • IBM
+- Java Backend Web Development • Patika.dev
+- DevOps & Agile Practices • IBM
+
+---
+
+## 🤝 Let's Connect
+
+Open to discussing system design, backend architecture, or collaborating on interesting projects.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanBerkant&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  **⭐ From [FurkanBerkant](https://github.com/FurkanBerkant)**
+</div>
