@@ -58,10 +58,6 @@ Building robust backend systems with focus on:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanBerkant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/FurkanBerkant/FurkanBerkant/output/github-contribution-grid-snake-dark.svg)
   
@@ -101,4 +97,5 @@ Open to discussing system design, backend architecture, or collaborating on inte
   
   **⭐ From [FurkanBerkant](https://github.com/FurkanBerkant)**
 </div>
+
 
