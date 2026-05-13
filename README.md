@@ -37,7 +37,7 @@ public class BerkantKubat {
     );
 
     public String contact() {
-        return "kubatb35@gmail.com";
+        return "berkantkubat.dev@gmail.com";
     }
 }
 ```
