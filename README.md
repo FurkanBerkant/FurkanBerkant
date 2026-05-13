@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-berkantkubat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
-[![Email](https://img.shields.io/badge/Gmail-kubatb35@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-berkantkubat.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berkantkubat.dev@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=FurkanBerkant&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/FurkanBerkant)
 
 </div>
