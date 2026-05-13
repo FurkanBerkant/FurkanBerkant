@@ -1,101 +1,169 @@
 <div align="center">
 
-# 👋 Hey, I'm Berkant Kubat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Berkant%20Kubat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20%7C%20Distributed%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-### Software Engineer
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-berkantkubat-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
-[![Email](https://img.shields.io/badge/-kubatb35@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Microservices+%26+Event-Driven+Architecture;Apache+Kafka+%7C+Spring+Boot+%7C+Kubernetes;Building+Scalable+High-Performance+Systems;Clean+Code+%7C+SOLID+Principles+%7C+DDD)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-berkantkubat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
+[![Email](https://img.shields.io/badge/Gmail-kubatb35@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=FurkanBerkant&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/FurkanBerkant)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-Java Backend Engineer with a focus on building scalable, high-performance distributed systems. I specialize in microservices architecture and event-driven design patterns to solve complex engineering challenges.
+> **Java Backend Engineer** crafting high-throughput distributed systems that scale.
 
-- ☕ Primary focus on **Java** and **Spring Boot** development
-- 🏗️ Building microservices with **event-driven architectures**
-- 🔄 Working with **Apache Kafka** for real-time data processing
-- ⚡ Optimizing performance through **caching strategies** and **async processing**
-- 🐳 Deploying with **Docker**, **Kubernetes**, and **GitOps** practices
+I specialize in **microservices architecture** and **event-driven design patterns** — turning complex engineering problems into elegant, production-grade solutions. My work lives at the intersection of performance, reliability, and clean design.
 
----
+```java
+public class BerkantKubat {
 
-## 🛠️ Tech Stack
-```text
-Core:             Java • Spring Boot • Spring Cloud
-Messaging:        Apache Kafka • Protocol Buffers • gRPC • REST APIs
-Databases:        PostgreSQL • Apache Cassandra • Redis • Microsoft SQL Server
-Caching:          Redis • Caffeine Cache
-DevOps:           Docker • Kubernetes • Helm • ArgoCD • GitHub Actions
-Monitoring:       Prometheus • Grafana • Loki
-Other:            Python • C#
+    private final String role     = "Java Backend Engineer";
+    private final String focus    = "Distributed Systems & Microservices";
+    private final String location = "Türkiye 🇹🇷";
+
+    private final List<String> currentlyExploring = List.of(
+        "Domain-Driven Design patterns",
+        "Event Sourcing & CQRS",
+        "gRPC & Protocol Buffers at scale"
+    );
+
+    public String contact() {
+        return "kubatb35@gmail.com";
+    }
+}
 ```
 
 ---
 
-## 💼 What I Do
+## 🛠️ Tech Stack
 
-Building robust backend systems with focus on:
+<div align="center">
 
-- 🎯 **Microservices Architecture** - Designing scalable, maintainable services
-- 📊 **Real-time Data Processing** - Kafka-based event streaming pipelines
-- ⚡ **Performance Optimization** - Async processing, strategic caching, query tuning
-- 🗄️ **Database Design** - Time-series data with Cassandra, transactional data with PostgreSQL
-- 🔍 **Observability** - Prometheus metrics, Grafana dashboards, distributed tracing
-- 🚀 **Cloud Native** - Containerization, orchestration, and automated deployments
+### ☕ Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 📨 Messaging & APIs
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 📊 Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+---
+
+## ⚙️ What I Build
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🏗️ Microservices Architecture
+Designing loosely-coupled, independently deployable services with clearly defined domain boundaries. Focused on resilience patterns like circuit breakers, retries, and saga orchestration.
+
+</td>
+    <td valign="top" width="50%">
+
+### 📡 Event-Driven Systems
+Building Kafka-based event streaming pipelines for real-time data processing. Experience with exactly-once semantics, consumer groups, and schema evolution using Avro/Protobuf.
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+### ⚡ Performance Engineering
+Strategic caching with Redis & Caffeine, async processing with virtual threads, and query optimization across both relational and NoSQL databases.
+
+</td>
+    <td valign="top" width="50%">
+
+### 🔭 Observability & GitOps
+End-to-end observability stacks using Prometheus, Grafana, and Loki. Automated deployments with ArgoCD and Helm on Kubernetes clusters.
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED"/>
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED"/>
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/FurkanBerkant/FurkanBerkant/output/github-contribution-grid-snake-dark.svg)
-  
+  <img src="https://streak-stats.demolab.com?user=FurkanBerkant&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF5722&currStreakLabel=7C3AED" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FurkanBerkant/FurkanBerkant/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
 
-## 🎓 Background
+## 🎓 Education & Certifications
 
-**Bachelor of Science** in Statistics & Computer Science  
-*Karadeniz Technical University* • 2019 - 2023
+🎓 **B.Sc. Statistics & Computer Science** — *Karadeniz Technical University* `2019 – 2023`
 
-**Certifications:**
-- Spring Boot Development • Amigoscode
-- Cybersecurity Fundamentals • IBM
-- Java Backend Web Development • Patika.dev
-- DevOps & Agile Practices • IBM
+<br/>
+
+| Certificate | Provider | Domain |
+|-------------|----------|--------|
+| Spring Boot Development | Amigoscode | Backend Engineering |
+| Java Backend Web Development | Patika.dev | Web Development |
+| Cybersecurity Fundamentals | IBM | Security |
+| DevOps & Agile Practices | IBM | DevOps |
 
 ---
 
 ## 🤝 Let's Connect
 
-Open to discussing system design, backend architecture, or collaborating on interesting projects.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+I'm always open to discussing **system design**, **distributed architectures**, or **collaborating on challenging projects**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkantkubat/)
+[![Portfolio](https://img.shields.io/badge/Check_Out_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://furkanberkant.github.io/)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kubatb35@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FurkanBerkant&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  **⭐ From [FurkanBerkant](https://github.com/FurkanBerkant)**
-</div>
-
-
