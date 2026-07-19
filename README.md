@@ -26,7 +26,7 @@ I specialize in **microservices architecture** and **event-driven design pattern
 ```java
 public class BerkantKubat {
 
-    private final String role     = "Java Backend Engineer";
+    private final String role     = "Software Engineer";
     private final String focus    = "Distributed Systems & Microservices";
     private final String location = "Türkiye 🇹🇷";
 
