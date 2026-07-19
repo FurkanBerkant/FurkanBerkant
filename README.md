@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-> **Java Backend Engineer** crafting high-throughput distributed systems that scale.
+> **Software Engineer** crafting high-throughput distributed systems that scale.
 
 I specialize in **microservices architecture** and **event-driven design patterns** — turning complex engineering problems into elegant, production-grade solutions. My work lives at the intersection of performance, reliability, and clean design.
 
