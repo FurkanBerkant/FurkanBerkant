@@ -157,7 +157,7 @@ deployments with ArgoCD and Helm on Kubernetes clusters.
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FurkanBerkant&amp;hide_border=false&amp;background=0A0B0C&amp;border=2C2F31&amp;ring=C8FF5A&amp;fire=FF9A5C&amp;currStreakLabel=C8FF5A&amp;sideLabels=B6B8B7&amp;dates=7D8180&amp;currStreakNum=F1F0EB&amp;sideNums=F1F0EB" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=FurkanBerkant&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=7C3AED&amp;fire=FF5722&amp;currStreakLabel=7C3AED" alt="GitHub Streak" />
 </div>
 
 <div align="center">
