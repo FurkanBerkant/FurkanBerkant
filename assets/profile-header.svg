@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+  <title id="title">Berkant Kubat — Java Backend Engineer</title>
+  <desc id="desc">A dark system diagram with lime signals inspired by Berkant Kubat's portfolio.</desc>
+
+  <defs>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 L 0 0 0 56" fill="none" stroke="#1b1e20" stroke-width="1" />
+      <circle cx="0" cy="0" r="2" fill="#2c2f31" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0b0c" stop-opacity="0" />
+      <stop offset="0.55" stop-color="#0a0b0c" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#0a0b0c" stop-opacity="0.9" />
+    </linearGradient>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="460" rx="22" fill="#0a0b0c" />
+  <rect width="1400" height="460" rx="22" fill="url(#grid)" />
+  <rect x="1" y="1" width="1398" height="458" rx="21" fill="none" stroke="#2c2f31" />
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <circle cx="62" cy="54" r="5" fill="#c8ff5a" filter="url(#glow)" />
+    <text x="78" y="60" fill="#7d8180" font-size="15" letter-spacing="4">PROFILE / CURRENT</text>
+    <text x="62" y="185" fill="#f1f0eb" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" letter-spacing="-4">BERKANT KUBAT</text>
+    <text x="65" y="234" fill="#c8ff5a" font-size="25" font-weight="700" letter-spacing="6">JAVA BACKEND ENGINEER</text>
+    <line x1="64" y1="270" x2="348" y2="270" stroke="#c8ff5a" stroke-width="3" />
+    <text x="64" y="322" fill="#b6b8b7" font-size="20" letter-spacing="1">DISTRIBUTED SYSTEMS · MICROSERVICES</text>
+    <text x="64" y="401" fill="#7d8180" font-size="15" letter-spacing="4">JAVA · SPRING · KAFKA · KUBERNETES</text>
+  </g>
+
+  <rect x="745" y="1" width="654" height="458" rx="21" fill="url(#fade)" />
+
+  <g fill="none" stroke="#596063" stroke-width="2">
+    <path d="M790 230H876" />
+    <path d="M998 230H1060" />
+    <path d="M1182 230H1242" />
+    <path d="M937 195V130H1060" />
+    <path d="M937 265V330H1060" />
+  </g>
+
+  <g fill="#111315" stroke="#3b3f41" stroke-width="2">
+    <rect x="774" y="194" width="104" height="72" rx="13" />
+    <rect x="876" y="194" width="122" height="72" rx="13" />
+    <rect x="1060" y="94" width="122" height="72" rx="13" />
+    <rect x="1060" y="194" width="122" height="72" rx="13" />
+    <rect x="1060" y="294" width="122" height="72" rx="13" />
+    <rect x="1242" y="194" width="112" height="72" rx="13" />
+  </g>
+
+  <g fill="#d4d7d6" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" text-anchor="middle" letter-spacing="2">
+    <text x="826" y="224">CLIENT</text>
+    <text x="826" y="244">REQUEST</text>
+    <text x="937" y="224">API</text>
+    <text x="937" y="244">GATEWAY</text>
+    <text x="1121" y="124">SERVICE</text>
+    <text x="1121" y="144">A</text>
+    <text x="1121" y="224">KAFKA</text>
+    <text x="1121" y="244">EVENTS</text>
+    <text x="1121" y="324">SERVICE</text>
+    <text x="1121" y="344">B</text>
+    <text x="1298" y="224">DATA</text>
+    <text x="1298" y="244">PLANE</text>
+  </g>
+
+  <g fill="#c8ff5a" filter="url(#glow)">
+    <circle cx="790" cy="230" r="6" />
+    <circle cx="998" cy="230" r="6" />
+    <circle cx="1060" cy="130" r="6" />
+    <circle cx="1060" cy="230" r="6" />
+    <circle cx="1060" cy="330" r="6" />
+    <circle cx="1242" cy="230" r="6" />
+    <circle cx="1354" cy="230" r="6" />
+  </g>
+</svg>

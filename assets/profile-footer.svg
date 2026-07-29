@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="96" viewBox="0 0 1400 96" role="img" aria-label="End of profile">
+  <defs>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M 56 0 L 0 0 0 56" fill="none" stroke="#1b1e20" stroke-width="1" />
+    </pattern>
+    <filter id="glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="96" rx="18" fill="#0a0b0c" />
+  <rect width="1400" height="96" rx="18" fill="url(#grid)" />
+  <rect x="1" y="1" width="1398" height="94" rx="17" fill="none" stroke="#2c2f31" />
+  <line x1="60" y1="48" x2="1340" y2="48" stroke="#3b3f41" stroke-width="2" />
+  <circle cx="60" cy="48" r="6" fill="#c8ff5a" filter="url(#glow)" />
+  <circle cx="1340" cy="48" r="6" fill="#7ee7d6" filter="url(#glow)" />
+  <text x="700" y="54" fill="#7d8180" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" text-anchor="middle" letter-spacing="4">BUILD · MOVE · SHIP · SEE</text>
+</svg>
