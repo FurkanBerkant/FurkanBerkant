@@ -129,8 +129,8 @@ Running containerized services with Docker and Kubernetes, using ArgoCD for deli
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=FurkanBerkant&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanBerkant&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED"/>
+  <img height="175em" src="./profile/stats.svg" alt="Berkant Kubat's GitHub Stats"/>
+  <img height="175em" src="./profile/top-langs.svg" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
