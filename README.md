@@ -4,91 +4,54 @@
 
 [LinkedIn](https://www.linkedin.com/in/berkantkubat/) · [Portfolio](https://furkanberkant.github.io/) · [Email](mailto:berkantkubat.dev@gmail.com)
 
-I'm a software engineer focused on **Java backend development**. My professional work has involved **microservice** and **event-driven** systems, with a particular interest in reliability, data consistency, asynchronous communication, and backend architecture.
+I'm a software engineer focused on **Java backend development**, with professional experience working on **microservice** and **event-driven** systems.
 
-**Professional toolkit**  
-`Java` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `Cassandra` · `Docker` · `Kubernetes` · `ArgoCD` · `Prometheus` · `Grafana`
+My backend work has involved **Java, Spring Boot, Kafka, Redis, PostgreSQL, Cassandra, Docker, Kubernetes, ArgoCD, Prometheus, and Grafana**. I’m particularly interested in **reliability, data consistency, asynchronous communication, and backend architecture**.
 
-**Currently deepening**  
-`Distributed Systems` · `Domain-Driven Design` · `System Design` · `AWS`
+I’m currently deepening my knowledge of **distributed systems, Domain-Driven Design, system design, and AWS**.
 
 ---
 
-## Selected Backend Projects
+## Professional Focus
 
-### [Core Wallet](https://github.com/FurkanBerkant/core-wallet)
-
-Spring Boot wallet API built around financial transaction concerns rather than basic CRUD.
-
-- Idempotent deposit, withdrawal, and transfer operations
-- Database locking and concurrency protection for balance-changing operations
-- Transaction ledger and consistent error handling
-- PostgreSQL, Docker Compose, JUnit 5
-
-**Stack:** `Java` · `Spring Boot` · `Spring Data JPA` · `PostgreSQL` · `Docker`
-
-### [ReelShelf API](https://github.com/FurkanBerkant/reelShelf)
-
-Backend for a personal movie and book archive with authenticated, user-scoped collections.
-
-- Stateless JWT authentication and Spring Security
-- TMDb and Google Books integrations
-- User ownership rules and structured API errors
-- PostgreSQL persistence and Docker-based local infrastructure
-
-**Stack:** `Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `REST`
-
-### [Fund Search Service](https://github.com/FurkanBerkant/fund-search-service)
-
-Search and analysis service for Turkish investment fund data.
-
-- Excel data ingestion
-- PostgreSQL persistence
-- Elasticsearch-based search, filtering, and indexing
-- Swagger/OpenAPI-oriented API workflow
-
-**Stack:** `Java 21` · `Spring Boot` · `PostgreSQL` · `Elasticsearch` · `Docker`
+- Java & Spring Boot backend development
+- Microservice architectures
+- Event-driven communication with Kafka
+- Caching and data access with Redis, PostgreSQL, and Cassandra
+- Containerized deployments with Docker and Kubernetes
+- GitOps delivery with ArgoCD
+- Monitoring with Prometheus and Grafana
 
 ---
 
-## Architecture & Engineering Projects
+## Engineering Interests
 
-### [Modular SaaS Enterprise](https://github.com/FurkanBerkant/Modular-SaaS-Enterprise)
-
-A modular-monolith architecture experiment using Spring Modulith. It explores domain boundaries, tenant scoping, authentication, and internal module communication across appointment, provider, bidding, and billing capabilities.
-
-**Stack:** `Java 21` · `Spring Boot` · `Spring Modulith` · `MongoDB` · `Spring Security` · `OAuth2`
-
-### [NewDrive](https://github.com/FurkanBerkant/newdrive)
-
-A self-hosted file-management project exploring storage and operational concerns outside my primary Java stack.
-
-- Private Cloudflare R2 object storage
-- SQLite/Prisma metadata persistence
-- Argon2 password hashing and hashed session tokens
-- Docker Compose, Caddy, backup and cleanup workflows
-
-**Stack:** `TypeScript` · `Node.js` · `Express` · `Prisma` · `SQLite` · `Cloudflare R2`
+- Distributed systems
+- Reliable service-to-service communication
+- Data consistency and concurrency
+- Backend performance and scalability
+- Domain-Driven Design
+- System design and architectural trade-offs
+- Cloud infrastructure
 
 ---
 
-## About This GitHub
+## Currently Learning
 
-My current work is centered on **backend engineering, distributed systems, and system design**. Older repositories include bootcamp exercises, coding challenges, university work, and experiments that I keep public as a record of my development over time.
-
-When evaluating my current backend work, start with **Core Wallet**, **ReelShelf API**, **Fund Search Service**, and **Modular SaaS Enterprise**.
+`AWS` · `Distributed Systems` · `DDD` · `System Design`
 
 ---
 
 ## Education
 
-**B.Sc. Statistics & Computer Science** — Karadeniz Technical University, 2019–2023
+**B.Sc. Statistics & Computer Science**  
+Karadeniz Technical University · 2019–2023
 
 ---
 
 ## Contact
 
-For Java backend, distributed systems, or software engineering opportunities:
+Open to **Java Backend / Software Engineer** opportunities.
 
 **Email:** [berkantkubat.dev@gmail.com](mailto:berkantkubat.dev@gmail.com)  
 **LinkedIn:** [linkedin.com/in/berkantkubat](https://www.linkedin.com/in/berkantkubat/)  
